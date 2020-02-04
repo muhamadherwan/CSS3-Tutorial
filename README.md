@@ -26,7 +26,7 @@
 * !important (not recommended)
 
 
-# What seleCtors win out in the cascade depends on:
+# What selectors win out in the cascade depends on:
 * Specificity
 * Importance
 *Source Order
