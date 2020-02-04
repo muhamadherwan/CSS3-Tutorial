@@ -1,0 +1,49 @@
+/*
+Selector {
+  Property: value;
+}
+*/
+
+*{
+  text-align:right;
+}
+body {
+/*background-image: url(hqdefault.jpg);*/
+background-image: url(cg.png);
+background-size: cover;
+
+}
+
+p{
+  color:#AA4239;
+  text-align:center;
+  border:5px solid rgba(255,176,170, 0.5);
+  cursor: pointer;
+}
+
+p {
+ line-height: 50px;
+ font-style: italic;
+ font-weight: bold;
+ font-size: 100%;
+ font-family: 'Share Tech Mono', monospace;
+}
+
+
+
+li{
+  list-style: none;
+  display:inline-block;
+  color:white
+}
+
+img{
+  float:right;
+}
+
+footer{
+  clear:both;
+  text-align: center;
+  color:white;
+}
+
