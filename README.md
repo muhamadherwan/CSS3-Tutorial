@@ -8,6 +8,7 @@
 * http://flexboxfroggy.com/
 * https://darekkay.com/dev/flexbox-cheatsheet.html
 * https://caniuse.com
+* https://daneden.github.io/animate.css/
 
 * Cascading Style Sheets at the most basic level it indicates that the order of CSS rules matter. 
 
